@@ -1,6 +1,9 @@
 
+<<<<<<< HEAD
+=======
 WordPress - Web publishing 2
 
+>>>>>>> another
 
 Copyright 2015 by the contributors
 
